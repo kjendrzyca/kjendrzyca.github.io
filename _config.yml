@@ -1,1 +1,2 @@
 exclude: [TheOneYouDontLike.github.io.sublime-project, TheOneYouDontLike.github.io.sublime-workspace, Gemfile, Gemfile.lock]
+permalink: /post/:title
