@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\My Files\\Copy\\Development\\Projects\\Github\\TheOneYouDontLike.github.io"
+		}
+	],
+
+    "settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "C:\\My Files\\Copy\\Development\\Projects\\Github\\TheOneYouDontLike.github.io\\_posts",
+            "drafts_path": "C:\\My Files\\Copy\\Development\\Projects\\Github\\TheOneYouDontLike.github.io\\_drafts",
+        }
+    }
+}
