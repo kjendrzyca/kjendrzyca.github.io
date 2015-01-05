@@ -3,10 +3,17 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:800,400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="/css/reset.css">
         <link rel="stylesheet" href="/css/style.css">
-        <title> {{ page.title }} </title>
+        <link rel="stylesheet" href="/css/syntax-monokai.css">
+        <title>{{ page.title }}</title>
     </head>
     <body>
+        <div id="container">
+            <header>The One <br />You Dont Like</header>
+            <section id="main-content">{{ content }}</section>
+        </div>
         
     </body>
 </html>
