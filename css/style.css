@@ -5,6 +5,18 @@ body {
     font-size: 13px;
 }
 
+a, a:visited{
+    color: #c0392b;
+}
+
+a:hover {
+    color: #e74c3c;
+}
+
+a:active {
+    color: #c0392b;   
+}
+
 #containter {
     min-height: 100%;
     position: relative;
@@ -15,6 +27,69 @@ header {
     height: 100%;
     width: 23%;
     background-color: #2c3e50; /* midnight blue */
+    padding-top: 80px;
+    text-align: center;
+}
+
+header #avatar {
+    border-radius: 15px;
+    border: 5px solid #34495e;
+    box-shadow: 3px 3px 10px #222;
+    width: 60%;
+}
+
+#blog-name {
+    margin: 30px 0 0 0;
+}
+
+#blog-name a {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    color: #fff;
+    font-weight: 800;
+    font-size: 2.5em;
+    text-decoration: none;
+}
+
+#blog-name a:hover {
+    color: #c0392b;
+}
+
+nav {
+    margin: 20px 0 0 0;
+}
+
+nav a, nav a:visited {
+    color: #7f8c8d;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 1.3em;
+    line-height: 2em;
+}
+
+nav a:hover {
+    color: #c0392b;
+}
+
+nav a:active {
+    color: #7f8c8d;
+}
+
+#twitter-and-stuff {
+    margin-top: 20px;
+}
+
+#twitter-and-stuff a {
+    color: #7f8c8d;
+    opacity: 0.3;
+    margin-right: 10px;
+}
+
+#twitter-and-stuff a:hover {
+    opacity: 0.7;
+}
+
+#twitter-and-stuff a:last-child {
+    margin-right: 0;
 }
 
 #main-content {

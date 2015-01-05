@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:800,400' rel='stylesheet' type='text/css'>
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="/css/reset.css">
         <link rel="stylesheet" href="/css/style.css">
         <link rel="stylesheet" href="/css/syntax-monokai.css">
@@ -11,7 +12,24 @@
     </head>
     <body>
         <div id="container">
-            <header>The One <br />You Dont Like</header>
+            <header>
+                <img src="https://avatars1.githubusercontent.com/u/7491025?v=3&s=460" alt="avatar" id="avatar" />
+                <div id="blog-name">
+                    <a href="/">The One <br />
+                    You Don't Like</a>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="mailto:theoneyoudontlike@gmail.com" alt="contact e-mail">Contact</a></li>
+                    </ul>
+                </nav>
+                <div id="twitter-and-stuff">
+                    <a href="https://twitter.com/The1YouDontLike" alt="twitter" target="_blank"><span class="fa fa-twitter fa-3x"></span></a>
+                    <a href="https://github.com/TheOneYouDontLike" alt="github" target="_blank"><span class="fa fa-github fa-3x"></span></a>
+                    <a href="#" alt="rss"><span class="fa fa-rss fa-3x" target="_blank"></span></a>
+                </div>
+            </header>
             <section id="main-content">{{ content }}</section>
         </div>
         
