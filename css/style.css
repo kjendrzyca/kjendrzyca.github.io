@@ -46,8 +46,7 @@ header {
 header #avatar {
     border-radius: 15px;
     border: 5px solid #34495e;
-    box-shadow: 3px 3px 10px #222;
-    width: 60%;
+    width: 50%;
 }
 
 #blog-name {
