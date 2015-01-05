@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
-<ul>
+
 {% for post in site.posts %}
-    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    <article>
+        <h1><a href="{{ post.url }}" title="{{ post.title }}" class="excerpt-link">{{ post.title }}</a></h1>
+        <div class="meta">
+            Published on <span class="date">{{ post.date | date_to_long_string }}</span>
+        </div>
+        <div class="excerpt-content">
+            {{ post.excerpt }}
+        </div>
+    </article>
 {% endfor %}
-</ul>

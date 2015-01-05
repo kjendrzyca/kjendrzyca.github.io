@@ -5,12 +5,24 @@ body {
     font-size: 13px;
 }
 
+a {
+    transition: all 0.3s ease;
+}
+
+a img {
+    transition: all 0.3s ease;
+}
+
 a, a:visited{
     color: #c0392b;
 }
 
 a:hover {
     color: #e74c3c;
+}
+
+a:hover img {
+    opacity: 0.8;
 }
 
 a:active {
@@ -98,11 +110,18 @@ nav a:active {
     width: 77%;
 }
 
-article {
-    padding: 80px;
+/* post, page, footer */
+article, #page {
+    padding: 0 80px;
+    margin: 80px 0;
 }
 
-h1, .meta, .post-content {
+footer {
+    padding: 0 80px;
+    margin: 80px 0 40px 0;   
+}
+
+h1, .meta, .post-content, .page-content, .excerpt-content, .footer-content {
     max-width: 700px;
 }
 
@@ -113,25 +132,37 @@ h1 {
     padding-bottom: 15px;
 }
 
+a.excerpt-link, a.excerpt-link:visited {
+    color: rgba(0,0,0,0.8);
+    text-decoration: none;
+}
+
+a.excerpt-link:hover {
+    color: #c0392b;
+}
+
+a.excerpt-link:active {
+    color: rgba(0,0,0,0.8);
+}
+
 .meta {
     color: rgba(0, 0, 0, 0.45);
     font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
-.post-content {
-    padding: 0 0 50px 0;
+.post-content, .page-content, .excerpt-content {
     line-height: 1.4em;
     font-size: 1.5em;
     text-align: justify;
     letter-spacing: 0.01rem;
 }
 
-.post-content p {
+.post-content p, .page-content p, .excerpt-content p {
     margin-top: 30px;
 }
 
 .highlight {
-    margin-top: 15px;
+    margin-top: 20px;
     border: 3px solid #2c3e50;
     border-radius: 3px;
     padding: 10px;

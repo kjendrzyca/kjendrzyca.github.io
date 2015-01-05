@@ -30,7 +30,10 @@
                     <a href="#" alt="rss"><span class="fa fa-rss fa-3x" target="_blank"></span></a>
                 </div>
             </header>
-            <section id="main-content">{{ content }}</section>
+            <section id="main-content">
+                {{ content }}
+                {% include footer.html %}
+            </section>
         </div>
         
     </body>

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: about/
+title: About me
 ---
 
-Hello from about
+Hello from about.
