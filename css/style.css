@@ -6,15 +6,12 @@ body {
 }
 
 a {
+    color: #c0392b;
     transition: color 0.3s ease;
 }
 
 a img {
     transition: color 0.3s ease;
-}
-
-a, a:link, a:visited{
-    color: #c0392b;
 }
 
 a:hover {
@@ -49,7 +46,7 @@ header #avatar {
     margin: 30px 0 0 0;
 }
 
-#blog-name a, #blog-name a:link, #blog-name a:visited {
+#blog-name a{
     font-family: 'Open Sans', Helvetica, sans-serif;
     color: #fff;
     font-weight: 800;
@@ -65,7 +62,7 @@ nav {
     margin: 20px 0 0 0;
 }
 
-nav a, nav a:link, nav a:visited {
+nav a {
     color: #7f8c8d;
     font-family: 'Open Sans', Helvetica, sans-serif;
     text-decoration: none;
@@ -81,7 +78,7 @@ nav a:hover {
     margin-top: 20px;
 }
 
-#twitter-and-stuff a, #twitter-and-stuff a:link, #twitter-and-stuff a:visited {
+#twitter-and-stuff a {
     color: #7f8c8d;
     opacity: 0.3;
     margin-right: 10px;
@@ -123,7 +120,7 @@ h1 {
     padding-bottom: 15px;
 }
 
-a.excerpt-link, a.excerpt-link:link, a.excerpt-link:visited {
+a.excerpt-link {
     color: rgba(0,0,0,0.8);
     text-decoration: none;
 }
