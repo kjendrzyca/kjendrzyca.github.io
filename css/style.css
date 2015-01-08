@@ -161,6 +161,10 @@ a.excerpt-link:hover {
 }
 
 @media (max-width: 740px) {
+    h1 {
+        font-size: 3.2em;
+    }
+
     header {
         position: relative;
         width: 100%;
