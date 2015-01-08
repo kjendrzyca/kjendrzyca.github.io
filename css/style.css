@@ -105,7 +105,7 @@ article, #page {
 }
 
 footer {
-    margin: 80px 0 40px 80px;
+    padding: 0 80px 40px 80px;
 }
 
 h1, .meta, .post-content, .page-content, .excerpt-content, .footer-content {
@@ -153,6 +153,7 @@ a.excerpt-link:hover {
 
 #disqus_thread { 
     padding: 0 80px;
+    margin-bottom: 80px;
 }
 
 #disqus_thread iframe {
@@ -182,5 +183,9 @@ a.excerpt-link:hover {
 
     #disqus_thread { 
         padding: 0 20px;
+    }
+
+    footer {
+        padding: 0 20px 40px 20px;
     }
 }
