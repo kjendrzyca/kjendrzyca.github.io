@@ -119,6 +119,14 @@ h1 {
     padding-bottom: 15px;
 }
 
+h2 {
+    border-bottom: 1px solid #ccc;
+    margin-top: 40px;
+    font-weight: 800;
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
 a.excerpt-link {
     color: rgba(0,0,0,0.8);
     text-decoration: none;
