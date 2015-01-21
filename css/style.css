@@ -127,6 +127,11 @@ h2 {
     line-height: 1.5em;
 }
 
+h3 {
+    font-weight: 800;
+    padding: 10px;
+}
+
 a.excerpt-link {
     color: rgba(0,0,0,0.8);
     text-decoration: none;
