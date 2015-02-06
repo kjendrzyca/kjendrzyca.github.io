@@ -141,6 +141,11 @@ a.excerpt-link:hover {
     color: #c0392b;
 }
 
+ol, ul {
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
 .meta {
     color: rgba(0, 0, 0, 0.45);
     font-family: 'Open Sans', Helvetica, sans-serif;
@@ -162,6 +167,17 @@ a.excerpt-link:hover {
     border: 3px solid #2c3e50;
     border-radius: 3px;
     padding: 10px;
+}
+
+blockquote {
+    border-left: 8px solid #c0392b;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+cite {
+    color: #999;
+    font-size: 0.84em;
 }
 
 #disqus_thread { 
