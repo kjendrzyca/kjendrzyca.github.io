@@ -1,7 +1,7 @@
 exclude: [TheOneYouDontLike.github.io.sublime-project, TheOneYouDontLike.github.io.sublime-workspace, Gemfile, Gemfile.lock]
 permalink: /post/:title
 url: aimforsimplicity.com
-disqusid: theoneyoudontlike
+disqusid: aimforsimplicitycom
 title: aimforsimplicity.com
 description: Personal opinions about software development.
 author: Krzysztof Jendrzyca

@@ -5,7 +5,7 @@ categories: []
 tags: []
 published: true
 date: 2015-02-03
-comments: false
+comments: true
 
 ---
 Object calisthenics is a group of rules for software development exercises (like code katas) that - when followed - should boost code readability and overall maintainability.
