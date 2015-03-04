@@ -77,7 +77,7 @@ It's a shorthand for **use better names unless you want to burn in hell**. No on
 
 Ok I have one more:
 
-> "So if you want to go fast, if you want to get it done quickly, if you want your code to be easy to write, make it easy to read."
+> "So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read."
 > <br /> -- <cite>Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship</cite>
 
 There is more, just google it.
