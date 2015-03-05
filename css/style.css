@@ -146,6 +146,10 @@ ol, ul {
     padding-left: 30px;
 }
 
+ul {
+    list-style-type: circle;
+}
+
 .meta {
     color: rgba(0, 0, 0, 0.45);
     font-family: 'Open Sans', Helvetica, sans-serif;
@@ -180,7 +184,7 @@ cite {
     font-size: 0.84em;
 }
 
-#disqus_thread { 
+#disqus_thread {
     padding: 0 80px;
     margin-bottom: 80px;
 }
@@ -214,7 +218,7 @@ cite {
         margin: 40px 0;
     }
 
-    #disqus_thread { 
+    #disqus_thread {
         padding: 0 20px;
     }
 

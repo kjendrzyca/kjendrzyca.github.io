@@ -67,7 +67,25 @@ This one is hard. I suppose that the main idea is to use [Value Objects](http://
 Similar to the previous one. Wrapping collections in their own classes and providing methods like ```AddSth(Something something)``` allows you to manage collections by their own specialized methods, not just simple interfaces like generic ```Add()``` or ```Remove()```.
 
 ### 5. One Dot Per Line
-I love this one. Simply put it's [Law Of Demeter](http://c2.com/cgi/wiki?LawOfDemeter) - "talk to your friends, not strangers". **Not using it is just a code smell**.
+I love this one. It's not really about the dots (because using [Fluent Api](http://martinfowler.com/bliki/FluentInterface.html) is ok). Simply put it's [Law Of Demeter](http://c2.com/cgi/wiki?LawOfDemeter) - "talk to your friends, not strangers".
+
+A method in class can call other methods of:
+
+- its class
+- method parameters
+- any object created in method scope
+- any global class object
+
+What are the benefits? You are creating the layers of abstraction. You will not end up with methods chain like this:
+
+{% highlight csharp %}
+looksLikeSimpleObject.GimmeDbLayer()
+    .GimmeCurrentDbContext()
+    .GimmeCurrentConnection()
+    .DoMagic(someControlFromTheUI);
+{% endhighlight %}
+
+**Not using Law Of Demeter is just a code smell**.
 
 ### 6. Don't Abbreviate
 It's a shorthand for **use better names unless you want to burn in hell**. No one likes variables like ```int a```, ```string mnkName``` ("mnk" states for "monkey", obviously). Naming is one of the most important things in software development and here is a random comment from Uncle Bob to prove that:
@@ -106,7 +124,7 @@ var golString = "******
 {% endhighlight %}
 
 And tried to parse it to use later as the generation that needs to be evolved.
-And hell, was it hard. Using algorithms and mixing them with object calisthenics rules is really hard. Sometimes you just want to use simple string and it should do only what the string does, nothing else. You don't want to wrap it to improve readability or separate the concerns. You just want it to hold the text.
+And hell, it was hard. Using algorithms and mixing them with object calisthenics rules is really hard. Sometimes you just want to use simple string and it should do only what the string does, nothing else. You don't want to wrap it to improve readability or separate the concerns. You just want it to hold the text.
 
 We spent so much time playing with this string that we almost didn't noticed that the time is over. The group that was checking our solution didn't have much to look at.
 
