@@ -183,7 +183,7 @@ pre {
     width: 100%;
 }
 
-code {
+.highlight code {
     overflow-x: scroll;
     display: block;
 }
