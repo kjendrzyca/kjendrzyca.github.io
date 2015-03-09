@@ -22,7 +22,7 @@ There are 9 of these rules:
 8. No Classes With More Than Two Instance Variables
 9. No Getters/Setters/Properties
 
-Today I was a participant in [Game Of Life code kata](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the main rule was - we use object calisthenics.
+Today I was a participant in [Game Of Life code kata](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the main rule was to use object calisthenics.
 We worked in 3 groups of 4 people. After implementing the whole thing we switched in groups and reviewed each other code providing comments about mistakes and failures in following calisthenics rules.
 <!--more-->
 
