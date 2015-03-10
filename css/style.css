@@ -183,7 +183,7 @@ pre {
 }
 
 .highlight code {
-    overflow-x: scroll;
+    overflow-x: auto;
     display: block;
 }
 
