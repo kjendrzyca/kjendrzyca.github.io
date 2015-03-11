@@ -11,7 +11,7 @@ a {
 }
 
 a img {
-    transition: color 0.3s ease;
+    transition: opacity 0.3s ease;
 }
 
 a:hover {
