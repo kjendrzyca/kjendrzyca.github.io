@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>{{ site.title | xml_escape }}</title>
     <link href="http://{{ site.url }}{{ page.url }}" rel="self" />
-    <link href="{{ site.url }}/" rel="alternate" type="text/html" />
+    <link href="http://{{ site.url }}/" rel="alternate" type="text/html" />
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>http://{{ site.url }}/</id>
     <author>
