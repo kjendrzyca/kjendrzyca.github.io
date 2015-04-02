@@ -15,7 +15,9 @@
         <link rel="stylesheet" href="/css/style.css">
         <link rel="stylesheet" href="/css/syntax-solarized.css">
         <link rel="stylesheet" href="/libs/selection-sharer.css">
-        {% include analytics.html %}
+        {% if page.debug != true %}
+            {% include analytics.html %}
+        {% endif %}
     </head>
     <body>
         <div id="container">
