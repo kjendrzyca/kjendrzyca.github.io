@@ -4,9 +4,8 @@ title: "3 monitors won't solve your problems"
 categories: []
 tags: []
 published: true
-date: 2015-03-26
-comments: false
-debug: true
+date: 2015-04-02
+comments: true
 ---
 There is a team in my company where people steal each other's monitors. Everyone already has 2 monitors, by default.
 But still, after 2 week holidays you can be sure your monitors won't be where they used to be.
@@ -14,6 +13,7 @@ But still, after 2 week holidays you can be sure your monitors won't be where th
 "Why do they need 3 monitors?", you may ask. Maybe to feel more comfortable. To have separate monitor just for Spotify or for writing e-mails. Maybe to be more productive. To put unit tests window on the first monitor, test class on the second one, and the thing that is being implemented on the third.
 
 I had an opportunity to work on three monitors. And I lasted in that state for about 4 days. Now, I'm pretty sure that it is one of the best things you can do to *lower* your productivity and I would never do that again.
+<!--more-->
 
 ##Multitasking
 If you look on your screen you can see that there is a lot going on. If you are a web developer, as I am, there is probably:
@@ -118,17 +118,17 @@ No icons at all, all tray icons are hidden, except BatteryCare.
 I've been considering using Emma Stone as my wallpaper but I came to a conclusion that it's a distraction :sadface:.
 
 ###Cleaning up my desk
-In this paragraph I should copy all the informations from the previous one. Clutter on your desk is the same as clutter on your desktop.
+In this paragraph I should copy all the information from the previous one. Clutter on your desk is the same as clutter on your desktop.
 
 Not always, I know. I've once read a book that describes the workflow of famous NYC painter. He needed to work having this artistic mess in his room. For the painter everything in this mess is something that they can use during the act of creation.
 
 Nevertheless, it's different when we talk about software development. All the tools we need are inside of a machine. If you need an artistic mess you have the Internet.
 
-So I cleaned up my desk and at some point of time I would like it to look like this:
+So I cleaned up my desk and at some point in time I would like it to look like this:
 
 ![Clean desk](http://pixabay.com/get/1c9a7536dd5738f41d0e/1428000044/home-office-336377_1280.jpg)
 
-Sadly I don't have a MacBook yet.
+Sadly, I don't have a MacBook yet.
 
 ###Turning off PC
 I was a fan of hibernating my machine. I always had something to do, zillions of windows open and constantly some work in progress.
