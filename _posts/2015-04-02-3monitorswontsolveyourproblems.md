@@ -126,7 +126,7 @@ Nevertheless, it's different when we talk about software development. All the to
 
 So I cleaned up my desk and at some point in time I would like it to look like this:
 
-![Clean desk](http://pixabay.com/get/1c9a7536dd5738f41d0e/1428000044/home-office-336377_1280.jpg)
+![Clean desk](/img/home_office.jpg)
 
 Sadly, I don't have a MacBook yet.
 
