@@ -71,7 +71,7 @@ So, even the most basic productivity technique is telling you that you should fo
 
 There are many specialist at being productive to the extreme that will tell you the same - limit distractions and don't do multiple things at the same time.
 
-Two of my favorite productivity gurus are ([Chris Bailey](http://alifeofproductivity.com)) and ([Scott Hanselman](http://hanselman.com)). I really recommend reading their blogs and watching eye-opening talk from Scott - ["It's not what you read, it's what you ignore"](http://www.hanselman.com/blog/ItsNotWhatYouReadItsWhatYouIgnoreVideoOfScottHanselmansPersonalProductivityTips.aspx).
+Two of my favorite productivity gurus are [Chris Bailey](http://alifeofproductivity.com) and [Scott Hanselman](http://hanselman.com). I really recommend reading their blogs and watching eye-opening talk from Scott - ["It's not what you read, it's what you ignore"](http://www.hanselman.com/blog/ItsNotWhatYouReadItsWhatYouIgnoreVideoOfScottHanselmansPersonalProductivityTips.aspx).
 
 Encouraged by all those productive people and researchers I started to change my life by implementing various productivity techniques. It wasn't easy because there is a wide range of possibilities. Yet, I chose those that work for me and now I feel my life has changed.
 
