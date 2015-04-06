@@ -12,7 +12,7 @@ Modern CSS frameworks like Bootstrap or Foundation are currently on the crest of
 I like using Bootstrap. It was a little bit hard to learn and use it at the beginning but I didn't give up. Right now my approach to creating websites is simplified. I don't need to reinvent the wheel and I can focus on delivering products to the client.
 
 But there is something new, something different. It's called **Material Design**.
-<!--more-->
+<span class="more">--</span>
 
 ## Goals
 Material design guidelines were first presented by Google in the middle of 2014 and are well described on [the official website](http://www.google.com/design/spec/material-design/introduction.html).
