@@ -25,9 +25,9 @@ Google developed those guidelines with two main goals in mind:
 
 By using "material as a metaphor" of space, surfaces and meaningful motion they want to simplify the use of everyday applications. Flavor that with **bold, colorful, eye-catching graphics and typography**, icons that are easy to click (it is often problematic on mobile devices) and you have something that is at least interesting.
 
-[![Mobile app by Anton Aheichanka (source: http://www.materialup.com/)](http://assets0.materialup.com/uploads/6a7e4a81-ce4f-453b-bda3-31244f9918a9/shot.gif)](http://assets0.materialup.com/uploads/6a7e4a81-ce4f-453b-bda3-31244f9918a9/shot.gif)
+[![Mobile app by Anton Aheichanka (source: http://www.materialup.com/posts/secret-project)](/img/materialapp.gif)](http://www.materialup.com/posts/secret-project)
 
-*Mobile app by Anton Aheichanka (source: [http://www.materialup.com/](http://www.materialup.com/))*
+*Mobile app by Anton Aheichanka (source: [http://www.materialup.com/](http://www.materialup.com/posts/secret-project))*
 
 Common problem of many applications is that we don't always know where to click and what's going to happen after clicking some element. We're not sure about the flow.
 Also the design varies between devices. Sometimes the same app looks totally different on PC and mobile device.
