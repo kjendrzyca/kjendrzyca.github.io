@@ -12,8 +12,7 @@ But still, after 2 week holidays you can be sure your monitors won't be where th
 
 "Why do they need 3 monitors?", you may ask. Maybe to feel more comfortable. To have separate monitor just for Spotify or for writing e-mails. Maybe to be more productive. To put unit tests window on the first monitor, test class on the second one, and the thing that is being implemented on the third.
 
-I had an opportunity to work on three monitors. And I lasted in that state for about 4 days. Now, I'm pretty sure that it is one of the best things you can do to *lower* your productivity and I would never do that again.
-<!--more-->
+I had an opportunity to work on three monitors. And I lasted in that state for about 4 days. Now, I'm pretty sure that it is one of the best things you can do to *lower* your productivity and I would never do that again. <span class="more">--</span>
 
 ##Multitasking
 If you look on your screen you can see that there is a lot going on. If you are a web developer, as I am, there is probably:
@@ -208,7 +207,7 @@ You are using Mind Dump to write down your daily chores and important tasks you 
 The important thing is that you are not keeping those intrusive thoughts in your mind. You are less stressed because you are not going to forget anything.
 
 ## So maybe just one monitor?
-After I introduced all those techniques my workflow became simple. I feel comfortable with using only one monitor. Every time I see someone working on 3 monitors (or more) I believe he's not well-organized.
+After I introduced all those techniques my workflow became simple. I feel comfortable with using only one monitor. Every time I see someone working on 3 monitors (or more) I believe ~~he's not~~ he might be not well-organized.
 
 Of course some people are brilliant and are able to manage working even on 3 monitors. Some people need to, for example stock exchange employees.
 
@@ -217,3 +216,13 @@ But most of the people are not brilliant and don't need to work like that.
 In my opinion 3rd monitor doesn't solve any problems. The only thing it can do is to make new problems. I really recommend trying one (or more) of those well-tested techniques. If you feel like your workflow is complicated - just try.
 
 P.S. Gaming on 3 monitors is probably great :)
+
+----
+
+**[Update 2015-04-06]**
+
+Thanks for all comments. Some people pointed out that I'm overgeneralizing here and I need to agree with that.
+
+But, the key thing is that there are plenty of options to boost productivity instead of using 3rd monitor. Some people use 3rd (or even 4th) monitor because it makes their lives easier, not because they want to solve their problems - and that's good.
+
+Nevertheless I'm still convinced that's not the right tool to boost productivity. If it is - you may be the special case :)

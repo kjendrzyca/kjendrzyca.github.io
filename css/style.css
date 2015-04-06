@@ -166,6 +166,10 @@ ul {
     margin-top: 30px;
 }
 
+.more {
+    display: none;
+}
+
 .read-more {
     display: block;
     margin: 20px 0;

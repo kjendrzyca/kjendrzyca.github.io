@@ -5,4 +5,7 @@ disqusid: aimforsimplicitycom
 title: aimforsimplicity.com
 description: Strive for simplicity in software development.
 author: Krzysztof Jendrzyca
-excerpt_separator: <!--more-->
+excerpt_separator: --
+markdown: redcarpet
+redcarpet:
+    extensions: ["strikethrough"]
