@@ -208,6 +208,11 @@ cite {
     font-size: 16px;
 }
 
+.share-buttons p {
+    line-height: 32px;
+    vertical-align: top;
+}
+
 #disqus_thread {
     padding: 0 80px;
     margin-bottom: 80px;
