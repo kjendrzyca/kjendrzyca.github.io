@@ -95,4 +95,4 @@ Sometimes, someone just needs to start to think differently. Do things some othe
 
 Some time ago I was skeptical about writing anything in AngularJS. In my opinion this framework encourages people to write bad code. But together with some members of my team we started to smuggle little improvements to our workflow. We tried different patterns, to structure code differently. And while it's still a pain in the ass to write something using this framework we feel better about it. Also people around us are grateful that there are less WTFs in the air around us.
 
-I hope I encouraged you (even if a little) to think differently about bad software practices. Please leave your comment and let me know about your solutions to that problem.
+I hope I encouraged you (even if a little) to think differently about bad and good software practices. Please leave your comment and let me know about your solutions to that problem.
