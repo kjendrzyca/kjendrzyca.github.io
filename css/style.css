@@ -22,6 +22,16 @@ a:hover img {
     opacity: 0.8;
 }
 
+code {
+    background-color: #eee;
+    padding: 0 8px;
+}
+
+.highlight code {
+    background-color: #002b36;
+    padding: 0;
+}
+
 #containter {
     min-height: 100%;
     position: relative;

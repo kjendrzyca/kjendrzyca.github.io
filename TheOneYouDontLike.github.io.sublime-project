@@ -3,7 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "C:\\My Files\\Copy\\Development\\Projects\\Github\\TheOneYouDontLike.github.io"
+			"path": "C:\\My Files\\Copy\\Github\\TheOneYouDontLike.github.io"
 		}
 	],
 
@@ -11,8 +11,8 @@
     {
         "Jekyll":
         {
-            "posts_path": "C:\\My Files\\Copy\\Development\\Projects\\Github\\TheOneYouDontLike.github.io\\_posts",
-            "drafts_path": "C:\\My Files\\Copy\\Development\\Projects\\Github\\TheOneYouDontLike.github.io\\_drafts",
+            "posts_path": "C:\\My Files\\Copy\\Github\\TheOneYouDontLike.github.io\\_posts",
+            "drafts_path": "C:\\My Files\\Copy\\Github\\TheOneYouDontLike.github.io\\_drafts",
         }
     }
 }
