@@ -7,6 +7,4 @@ description: Strive for simplicity in software development.
 author: Krzysztof Jendrzyca
 twitter_username: kjendrzyca
 excerpt_separator: --
-markdown: redcarpet
-redcarpet:
-    extensions: ["strikethrough"]
+markdown: kramdown
