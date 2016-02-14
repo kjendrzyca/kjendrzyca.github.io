@@ -1,5 +1,5 @@
 exclude: [TheOneYouDontLike.github.io.sublime-project, TheOneYouDontLike.github.io.sublime-workspace, Gemfile, Gemfile.lock]
-permalink: /post/:title
+permalink: /post/:title/
 url: aimforsimplicity.com
 disqusid: aimforsimplicitycom
 title: aimforsimplicity.com
