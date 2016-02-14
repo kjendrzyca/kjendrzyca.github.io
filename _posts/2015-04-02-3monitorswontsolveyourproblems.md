@@ -14,7 +14,7 @@ But still, after 2 week holidays you can be sure your monitors won't be where th
 
 I had an opportunity to work on three monitors. And I lasted in that state for about 4 days. Now, I'm pretty sure that it is one of the best things you can do to *lower* your productivity and I would never do that again. <span class="more">--</span>
 
-##Multitasking
+## Multitasking
 If you look on your screen you can see that there is a lot going on. If you are a web developer, as I am, there is probably:
 
 - one instance of Skype (or any other communicator)
@@ -47,7 +47,7 @@ Researchers at Stanford University claim that [multitasking can even damage your
 
 It sounds ridiculous and you can laugh about it. But there are reasons (and I have mine) to believe that.
 
-##Boosting productivity
+## Boosting productivity
 After dumping my third monitor I immediately started to notice that on 2 monitors the information hum is smaller, but still there.
 
 At this time I was really into boosting my productivity. I discovered that most of productivity tips boil down to four things:
@@ -76,9 +76,9 @@ Encouraged by all those productive people and researchers I started to change my
 
 I made a lot of big changes. One of them is completely changed, übersimplified way of working on PC.
 
-##My improvements
+## My improvements
 
-###Notifications
+### Notifications
 The very first thing I did was turning off all possible notifications.
 
 Many people cannot even imagine how it is possible to work without notifications.
@@ -95,7 +95,7 @@ I check my e-mail during pomodoro break or when someone tells me that there was 
 
 One less distraction.
 
-###Desktop
+### Desktop
 The second thing I did was cleaning up my desktop.
 
 A lot of people are treating their desktops as garbage collectors. I often see something like this:
@@ -116,7 +116,7 @@ No icons at all, all tray icons are hidden, except BatteryCare.
 
 I've been considering using Emma Stone as my wallpaper but I came to a conclusion that it's a distraction :sadface:.
 
-###Cleaning up my desk
+### Cleaning up my desk
 In this paragraph I should copy all the information from the previous one. Clutter on your desk is the same as clutter on your desktop.
 
 Not always, I know. I've once read a book that describes the workflow of famous NYC painter. He needed to work having this artistic mess in his room. For the painter everything in this mess is something that they can use during the act of creation.
@@ -129,7 +129,7 @@ So I cleaned up my desk and at some point in time I would like it to look like t
 
 Sadly, I don't have a MacBook yet.
 
-###Turning off PC
+### Turning off PC
 I was a fan of hibernating my machine. I always had something to do, zillions of windows open and constantly some work in progress.
 
 Of course there was also zillions of open tabs in my Chrome. It was sad every time when my Chrome crashed back then.
@@ -138,7 +138,7 @@ Thanks to my new workflow of doing one thing at a time I am now able to turn off
 
 Now every day I have a fresh start. I don't need to think why I kept something open and what I am supposed to do with it (that happened a lot).
 
-###Cleaning up IDE
+### Cleaning up IDE
 This is my favorite part. I was participating in many trainings that included live coding. Trainers were showing their examples using projector. Everyone was focused on what was shown. I was thinking - why am I so focused on those examples? Why are they so clear?
 
 Then it struck me - there were no distractions. One big screen, big font, one thing to be focused on - the code trainers were writing. Nothing else.
