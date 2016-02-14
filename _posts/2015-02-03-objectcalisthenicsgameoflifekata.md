@@ -114,6 +114,7 @@ I think this one may be the most powerful one. Getters and setters are popular b
 According to the rule no. 9 you should **"Tell, don't ask"**. The class that you are using should do things for you instead of ejecting its own guts straight in your face.
 
 ##My thoughts
+
 As mentioned earlier we tried to implement the Game Of Life algorithm using the above-mentioned rules.
 So we started with string like this one:
 
