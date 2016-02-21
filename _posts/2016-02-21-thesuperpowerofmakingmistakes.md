@@ -5,7 +5,7 @@ categories: []
 tags: []
 published: true
 date: 2016-02-21
-comments: false
+comments: true
 ---
 
 When I was studying at the university there were a few people really interested in getting the scholarship. The money was decent and only ten best students could get it. So people began to compete for it very quickly. In the beginning I wasn't interested in such things as I was not sure if I would be able to hold up on the semester. I wasn't good at math so I just focused on studying more than the others. But when I started getting better grades my chances to get the scholarship increased considerably. And the race began.
