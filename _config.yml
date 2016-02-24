@@ -8,3 +8,5 @@ author: Krzysztof Jendrzyca
 twitter_username: kjendrzyca
 excerpt_separator: --
 markdown: kramdown
+kramdown:
+  input: GFM
