@@ -68,6 +68,7 @@ JS has some awful parts that are best avoided. This book describes most of them 
 *source: [O'Reilly](http://shop.oreilly.com/product/9780596517748)*
 
 If you want to be a serious JS developer you should read this book. The benefits of doing that:
+
 - you can call yourself a serious JS developer because every serious developer has read The Good Parts
 - you will become aware of the bad parts
 - you will know how to avoid them
