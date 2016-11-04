@@ -94,6 +94,7 @@ My pick was [JavaScript Patterns by Stoyan Stefanov](http://shop.oreilly.com/pro
 ### The Pillars
 
 Eric Elliot wrote two great posts about the pillars of JS:
+
 - [Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 
@@ -122,6 +123,7 @@ There is also Ember, Backbone, Angular 1 and 2, Vue (this is my second favorite)
 I've been using Angular 1 for some time but it kicked my butt so many times that I decided it's not worth my efforts.
 
 For modern frontend you'll also need:
+
 - a way to download the libraries, the one you should go for is NPM, (or super-fresh [Yarn](https://github.com/yarnpkg/yarn)) there is also [Bower](https://bower.io/), but it's slowly dying
 - a way to package the app: [Webpack](https://webpack.github.io/) (more swag), [Browserify](http://browserify.org/) (less swag), [Rollup](http://rollupjs.org/) (total swag, but not yet as popular as the previous two) or [SystemJS](https://github.com/systemjs/systemjs) which also has its own package manager - [jspm](http://jsmp.io)
 - a way to test your app: the most popular test runners are [Mocha](https://mochajs.org/), [Jasmine](http://jasmine.github.io/), and [tape](https://github.com/substack/tape), all of them are cool and you really need to [judge yourself](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.ylp0u59lr) which one to use
