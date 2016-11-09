@@ -10,14 +10,14 @@ comments: true
 
 Learning JavaScript is a pretty good choice these days. It can do a lot of things for you:
 
-- [run a web server](https://nodejs.org/)
-- [test a webpage](http://phantomjs.org/)
-- [program your Arduino](https://github.com/ecto/duino)
-- [render 3D graphics](https://threejs.org/)
-- [write an app](https://facebook.github.io/react-native/) for [your phone](http://cordova.apache.org/)
-- [build a desktop app](http://electron.atom.io/)
-- [control a robot](https://github.com/rwaldron/johnny-five)
-- [play with IoT](http://iotjs.net/)
+* [run a web server](https://nodejs.org/)
+* [test a webpage](http://phantomjs.org/)
+* [program your Arduino](https://github.com/ecto/duino)
+* [render 3D graphics](https://threejs.org/)
+* [write an app](https://facebook.github.io/react-native/) for [your phone](http://cordova.apache.org/)
+* [build a desktop app](http://electron.atom.io/)
+* [control a robot](https://github.com/rwaldron/johnny-five)
+* [play with IoT](http://iotjs.net/)
 
 Some friends asked me how to get started with JS. Well, I learned JS not so long ago and I talked with some dev-people about their experience of learning JS. Based on that I will describe what in my opinion seems to be a good approach.
 
@@ -69,9 +69,9 @@ JS has some awful parts that are best avoided. This book describes most of them 
 
 If you want to be a serious JS developer you should read this book. The benefits of doing that:
 
-- you can call yourself a serious JS developer because every serious developer has read The Good Parts
-- you will become aware of the bad parts
-- you will know how to avoid them
+* you can call yourself a serious JS developer because every serious developer has read The Good Parts
+* you will become aware of the bad parts
+* you will know how to avoid them
 
 The same guy who wrote this book is an author of the first widely-used linter (aka static code analysis tool) for JS - [JSLint](http://www.jslint.com/).
 Later it was replaced by [JSHint](http://jshint.com/) and now we are using [ESLint](http://eslint.org/), but more about that later.
@@ -95,8 +95,8 @@ My pick was [JavaScript Patterns by Stoyan Stefanov](http://shop.oreilly.com/pro
 
 Eric Elliot wrote two great posts about the pillars of JS:
 
-- [Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
-- [Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+* [Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+* [Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 
 Deep knowledge about those two will help you write better JS code. Without this knowledge, you are like a child wandering in the fog.
 
@@ -124,10 +124,10 @@ I've been using Angular 1 for some time but it kicked my butt so many times that
 
 For modern frontend you'll also need:
 
-- a way to download the libraries, the one you should go for is NPM, (or super-fresh [Yarn](https://github.com/yarnpkg/yarn)) there is also [Bower](https://bower.io/), but it's slowly dying
-- a way to package the app: [Webpack](https://webpack.github.io/) (more swag), [Browserify](http://browserify.org/) (less swag), [Rollup](http://rollupjs.org/) (total swag, but not yet as popular as the previous two) or [SystemJS](https://github.com/systemjs/systemjs) which also has its own package manager - [jspm](http://jsmp.io)
-- a way to test your app: the most popular test runners are [Mocha](https://mochajs.org/), [Jasmine](http://jasmine.github.io/), and [tape](https://github.com/substack/tape), all of them are cool and you really need to [judge yourself](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.ylp0u59lr) which one to use
-- linter (aka static analysis tool): this one can help with a lot of problems caused by JS "bad parts", right now most people are using [ESLint](http://eslint.org/) which is the most powerful one.
+* a way to download the libraries, the one you should go for is NPM, (or super-fresh [Yarn](https://github.com/yarnpkg/yarn)) there is also [Bower](https://bower.io/), but it's slowly dying
+* a way to package the app: [Webpack](https://webpack.github.io/) (more swag), [Browserify](http://browserify.org/) (less swag), [Rollup](http://rollupjs.org/) (total swag, but not yet as popular as the previous two) or [SystemJS](https://github.com/systemjs/systemjs) which also has its own package manager - [jspm](http://jsmp.io)
+* a way to test your app: the most popular test runners are [Mocha](https://mochajs.org/), [Jasmine](http://jasmine.github.io/), and [tape](https://github.com/substack/tape), all of them are cool and you really need to [judge yourself](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.ylp0u59lr) which one to use
+* linter (aka static analysis tool): this one can help with a lot of problems caused by JS "bad parts", right now most people are using [ESLint](http://eslint.org/) which is the most powerful one.
 
 ### Modern JS - ES201x
 
@@ -156,8 +156,8 @@ Of course, you can pick just one solution that suits your needs and use it every
 
 ## Final hints
 
-- avoid w3schools.com, if you want correctness use [MDN](https://developer.mozilla.org/)
-- visit [http://www.2ality.com/](http://www.2ality.com/) if you are looking for "in-depth" blog posts about JS
-- know your tools, it will spare you the frustration (for starters I recommend [understanding Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/))
+* avoid w3schools.com, if you want correctness use [MDN](https://developer.mozilla.org/)
+* visit [http://www.2ality.com/](http://www.2ality.com/) if you are looking for "in-depth" blog posts about JS
+* know your tools, it will spare you the frustration (for starters I recommend [understanding Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/))
 
 Happy learning!
