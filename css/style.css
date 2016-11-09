@@ -32,6 +32,11 @@ code {
     padding: 0;
 }
 
+img + em {
+    display: block;
+    clear: both;
+}
+
 #containter {
     min-height: 100%;
     position: relative;
