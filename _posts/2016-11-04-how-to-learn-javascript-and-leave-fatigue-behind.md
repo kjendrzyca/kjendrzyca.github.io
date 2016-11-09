@@ -80,7 +80,7 @@ Some of the bad parts were fixed by the new version of JS (the previous one is c
 
 ## The Ongoing Task Of Mastering JS
 
-This is where things become serious. I think learning JS is a never-ending story. You know the good parts and the bad ones, but there is a lot ahead of you. Below are the things you need to learn simultaneously to fully grasp the topic.
+This is where things become serious. I think learning JS is a never-ending story. You know the good parts and the bad ones, but there is always something new waiting ahead. Below are the things you need to learn simultaneously to fully grasp the topic.
 
 ### Design Patterns
 
