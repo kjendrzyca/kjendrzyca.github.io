@@ -43,6 +43,7 @@ I'm using Google Play Music, application presented on the image below. I must ad
 As you can see this application has depth. Adding physical properties like depth, thickness, shape or shadow define the whole concept of material design.
 
 ##How to use it?
+
 In my current project the client wants his app to be easy and intuitive to use. Also it should have nice look and feel. Sounds like material design, so why not to use it?
 
 We (my team and I) started looking into available framworks. As we are using Angular.js the first guess was [Angular Material](https://material.angularjs.org). There are some nice examples of how to use provided directives. Sadly using them looks like this:
@@ -59,6 +60,7 @@ Finally we found the thing called [Materialize](http://materializecss.com).
 The first impression was like: "looks like Bootstrap, or very similar - let's give it a try."
 
 ##Materialize - first impressions
+
 Materialize is SASS framework based on default 12 column grid system. It is used by applying CSS classes (rows, containers, cols and stuff) to your HTML code, just like in Bootstrap. Documentation is ok (if you look at the most common components), it has MIT license and it's hosted on Github. So if we are talking about simplicity - **looks perfect**.
 
 It seems that Materialize has all of the necessary components that you would like to use when building websites and web apps based on material design.
