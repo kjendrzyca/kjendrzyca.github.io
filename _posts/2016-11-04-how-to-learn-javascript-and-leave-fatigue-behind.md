@@ -8,6 +8,9 @@ date: 2016-11-04
 comments: true
 ---
 
+![React](/img/fatigue.jpg)
+*Image by [Kevin Harber](https://www.flickr.com/photos/kevharb/)*
+
 Learning JavaScript is a pretty good choice these days. It can do a lot of things for you:
 
 * [run a web server](https://nodejs.org/)
