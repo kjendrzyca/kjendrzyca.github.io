@@ -32,9 +32,10 @@ code {
     padding: 0;
 }
 
-img + em {
-    display: block;
+img + em, img + br + em {
     clear: both;
+    display: block;
+    font-size: 14px;
 }
 
 #containter {
