@@ -5,7 +5,7 @@ categories: []
 tags: [javascript, react, concepts]
 published: true
 date: 2016-12-22
-comments: false
+comments: true
 ---
 
 ![React](/img/react.jpg)
