@@ -24,7 +24,12 @@ a:hover img {
 
 code {
     background-color: #eee;
+    font-size: 0.7em;
     padding: 0 8px;
+}
+
+code.highlighter-rouge {
+    font-size: 1em;
 }
 
 .highlight code {
