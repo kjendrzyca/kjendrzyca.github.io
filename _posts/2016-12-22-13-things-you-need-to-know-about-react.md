@@ -27,7 +27,7 @@ It doesn't help you with server communication, translations, routing and so on. 
 
 React is thin and it's extremely easy to mix it with other 3rd party libraries. Rich JS ecosystem has a library for everything. You can choose your favorite one and plug it in without dealing with the design decisions/limitations of the framework.
 
-Of course, there is [famous JS fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ovtpj2ypn). If you feel the same way and don't want to make every decision yourself, do a 30 min research, pick one of the opinionated starter kits/boilerplates, change whatever you want and just use it.
+Of course, there is [famous JS fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ovtpj2ypn). If you feel the same way and don't want to make every decision yourself, do a 30 min research, pick one of the [opinionated starter kits/boilerplates](http://andrewhfarmer.com/starter-project/), change whatever you want and just use it.
 
 ## 2) JSX
 
