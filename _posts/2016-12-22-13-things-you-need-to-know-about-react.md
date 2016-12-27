@@ -415,7 +415,7 @@ const List = React.createClass({
       return todos
     }
 
-    return todos.filter(todo => todo.text.indexOf(searchText) > 0)
+    return todos.filter(todo => todo.text.indexOf(this.state.searchText) > 0)
   },
 
   render () {
