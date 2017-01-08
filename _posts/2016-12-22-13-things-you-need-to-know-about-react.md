@@ -363,15 +363,17 @@ const List = React.createClass({
   },
 
   search (searchText) {
-    const filteredTodos = this.state.todos(todo => todo.text.indexOf(searchText) > 0)
+    const filteredTodos = this.state.todos.filter(todo => todo.text.indexOf(searchText) > 0)
 
     this.setState({filteredTodos: filteredTodos})
   },
 
   render () {
-    const {filteredTodos, todos} = this.state // get todos from state
+    // get todos from state
+    const {filteredTodos, todos} = this.state
 
-    const list = filteredTodos === null ? todos : filteredTodos // if there are filtered todos use them
+    // if there are filtered todos use them
+    const list = filteredTodos === null ? todos : filteredTodos 
 
     return (
       <div>
@@ -419,11 +421,13 @@ const List = React.createClass({
   },
 
   render () {
+    const {todos} = this.state
+    
     return (
       <div>
         <SearchBox onChange={this.search} />
         <ul>
-          {this.filter(list).map(todo => <li key={todo.id}>{todo.text}</li>)}
+          {this.filter(todos).map(todo => <li key={todo.id}>{todo.text}</li>)}
         </ul>
       </div>
     )
