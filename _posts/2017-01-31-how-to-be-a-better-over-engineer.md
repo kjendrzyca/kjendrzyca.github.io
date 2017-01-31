@@ -15,6 +15,8 @@ During your career, you will be often asked to code something that may look like
 
 But deep inside you feel it's wrong. Don't you? Sometimes you have to do better and over-engineer a little.
 
+<span class="more">--</span>
+
 The thing is you know that clients never know what they want. It's your responsibility to help them realize that. It's the reason they pay you. To solve problems, to foresee obstacles and help them make the best product.
 
 It is a hard task. You need to have a framework you can follow in situations like that.
