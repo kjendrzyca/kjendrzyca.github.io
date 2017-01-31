@@ -39,7 +39,7 @@ Speaking of which, don't use any simple open source libraries like Handlebars as
 
 Your solution must be rock-SOLID, DRY and most importantly - generic. You never know what functionalities the client will request in the future.
 
-Remember that everything needs to be extendable and customizable. It will be easier to change it. EmailProcessor, TemplateLoader, TemplateProcessor, ConfigurationLoader, ConfigurationParser, EmailSendingManager - if you don't have them it's **bad code**.
+Remember that everything needs to be extendable and customizable. It will be easier to change it. EmailProcessor, TemplateLoader, TemplateProcessor, ConfigurationLoader, ConfigurationParser, EmailSendingManager - **if you don't have them it's bad code**.
 
 ## Forms
 
@@ -59,7 +59,7 @@ Mostly, those would be your less experienced team members. They will try to argu
 
 You should stay calm in those situations. Don't judge, don't be like them. They need to be a shining example. Give them a little guidance. There are few simple tricks you can use:
 
-1) Use your "years of experience" in the argument.
+1) Use your "years of experience" in the argument
 
 This one is very hard to argue with. Use it if you have at least 5 years of experience. The more years of experience you have the stronger you are.
 
@@ -75,13 +75,13 @@ Tell them why you think agile doesn't work. Why you should focus on perfecting t
 
 Do all this to build a trust in you.
 
-3) If you are a senior or lead developer, remind them of that.
+3) If you are a senior or lead developer, remind them of that
 
 Sometimes people forget their place. You should use your authority. I know you don't want to be a prick but sometimes you need to suffer to make your team better.
 
 Maybe they will finally learn something and thank you one day.
 
-4) Use clever talk if you don't have the experience.
+4) Use clever talk if you don't have the experience
 
 "Fake it till you make it" they say. And that's what you should do.
 
