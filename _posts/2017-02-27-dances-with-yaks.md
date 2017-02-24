@@ -121,7 +121,7 @@ You can work to minimize those kinds of encounters by:
 
 **Some yaks don't need to be shaved to be happy.** Just look at them:
 
-![happy yak](/img/happy-yak.jpg)
+![happy yak](/img/happy-yaks.jpg)
 *Image by [Elias Carlsson](https://unsplash.com/@eliascarlsson)*
 
 If you know some other ways, drop a comment!
