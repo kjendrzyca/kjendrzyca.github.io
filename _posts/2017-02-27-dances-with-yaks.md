@@ -45,7 +45,7 @@ We call it **yak shaving**.
 
 I love how it's depicted by this gif:
 
-![yak shaving malcolm in the middle](http://imgur.com/rQIb4Vw)
+![yak shaving malcolm in the middle](/img/yak-shaving-malcolm.gif)
 
 ## How to take care of your yaks so they don't breed too much and eat all the green grass in your code
 
@@ -107,7 +107,7 @@ Don't be like that. Be pragmatic. Try to figure out the situation you are in. Fa
 
 Yak shaving is a complicated topic and there are no silver bullets. Eventually, you will need to deal with a big guy like the one below:
 
-![http://9gag.com/gag/aOzzz6M](http://9gag.com/gag/aOzzz6M)
+![yak-robatics](yak-robatics.gif)
 
 You can work to minimize those kinds of encounters by:
 
