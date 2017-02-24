@@ -107,7 +107,7 @@ Don't be like that. Be pragmatic. Try to figure out the situation you are in. Fa
 
 Yak shaving is a complicated topic and there are no silver bullets. Eventually, you will need to deal with a big guy like the one below:
 
-![yak-robatics](yak-robatics.gif)
+![yak-robatics](/img/yak-robatics.gif)
 
 You can work to minimize those kinds of encounters by:
 
