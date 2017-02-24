@@ -119,7 +119,7 @@ You can work to minimize those kinds of encounters by:
 - being pragmatic
 - having goals and priorities
 
-**Some yaks don't need to be shaved to be happy.** Just look at the one below:
+**Some yaks don't need to be shaved to be happy.** Just look at them:
 
 ![happy yak](/img/happy-yak.jpg)
 *Image by [Elias Carlsson](https://unsplash.com/@eliascarlsson)*
