@@ -3,9 +3,9 @@ layout: post
 title: Dances with Yaks
 categories: []
 tags: [software development, refactoring, yak, yaks]
-published: false
+published: true
 date: 2017-02-27
-comments: false
+comments: true
 ---
 
 ![yaks](/img/yak-main.jpg)
