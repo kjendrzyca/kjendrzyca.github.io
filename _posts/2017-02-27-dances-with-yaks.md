@@ -33,9 +33,9 @@ After a while the validation was ready. Erik needed to merge the previous PR to 
 
 Unfortunately, there were 22 comments waiting for him. It turned out that in some cases he made the wrong choice in replacing the old errors with new ones. Another thing to fix. In some cases, he didn't agree with the comments and raised the discussion with the team. And discussions on generic solutions could take forever...
 
-After a lengthy debate and a whiteboard session, they agreed on what to do. There was another problem, though. They discovered that the scripts responsible for running tests on docker containers had to be updated. `common-utils` was very outdated. That's the cost of migrating everything to new ES.
+After a lengthy debate and a whiteboard session, they agreed on what to do. There was another problem, though. They discovered that the scripts responsible for running tests on docker containers had to be updated. `common-utils` was very outdated. That's the cost of migrating everything to new version of Elasticsearch.
 
-Erik got back to work. First, he needed to make the changes to his PR and update the docker images for Elastic.
+Erik got back to work. First, he needed to make the changes to his PR and update the docker images for ES.
 
 He managed to do both, but it took far much time than he expected. It was almost 5 pm...
 
@@ -57,13 +57,15 @@ You want to apply this rule as often as possible. Instead of committing a week o
 
 That's what Erik was trying to do. But he ended up shaving a few hairy yaks in the process. How to deal with that?
 
+![Erik with yak](/img/erik-yak.jpg)
+
 ### Be aware (of the yaks)
 
 The first thing you need to do is to **recognize that you are approaching a yak**.
 
-Remember that not everyone in the team will be a good boy scout and you will have a lot of mess in the code. Someone once said to me:
+Remember that not everyone in the team will be a good boy scout and you will have a lot of mess in the code.
 
-> There is no good code. There is only bad and terrible code.
+> There is no good code. There is only bad and terrible code. ~one of my mentors
 
 There will be a lot of yaks. Always. Every time you clean the code remember you can encounter one. You probably create some yaks in the process.
 
@@ -89,7 +91,7 @@ Or *it can be postponed*. If so, make a task for the yak, describe the goal and 
 
 There is always something to fix in the codebase. When you postpone shaving, you make room for other more important tasks.
 
-### Shut up your ego
+### Shut up your ego and focus on business goals
 
 Sometimes I see developers that try to fix everything they see. Everything needs to shine. It hurts their ego if the code isn't as perfect as they want. Or just exactly as they would like it to be (*wink*).
 
