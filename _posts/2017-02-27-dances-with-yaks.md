@@ -95,7 +95,7 @@ Sometimes I see developers that try to fix everything they see. Everything needs
 
 Sometimes they get lost in this process. They forget you work in sprints where the goals are already defined and your main job is to deliver what you promised to deliver.
 
-This is mostly a problem of developers without discipline, with too much focus on the technicalities instead of problems they're supposedly trying to solve for their clients. Or overly proactive junior developers that want to be seen and get promoted ASAP (been there, done that).
+This is mostly a problem for developers without discipline, with too much focus on the technicalities instead of problems they're supposedly trying to solve for their clients. Or overly proactive junior developers that want to be seen and get promoted ASAP (been there, done that).
 
 Sometimes people that join the team try to show off. They preach about their "previous experience" and how they would "fix" the code base. Without the knowledge about the code and the project they will tell you "how it should be done".
 
