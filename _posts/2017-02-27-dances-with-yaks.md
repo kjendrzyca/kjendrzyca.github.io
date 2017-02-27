@@ -93,7 +93,7 @@ There is always something to fix in the codebase. When you postpone shaving, you
 
 ### Shut up your ego and focus on business goals
 
-Sometimes I see developers that try to fix everything they see. Everything needs to shine. It hurts their ego if the code isn't as perfect as they want. Or just exactly as they would like it to be (*wink*).
+Sometimes I see developers that try to fix everything they see. Everything needs to shine. It hurts their ego if the code isn't as perfect as they want. Or just exactly as they would like it to be (\*wink\*).
 
 Sometimes they get lost in this process. They forget you work in sprints where the goals are already defined and your main job is to deliver what you promised to deliver.
 
@@ -113,7 +113,7 @@ Yak shaving is a complicated topic and there are no silver bullets. Eventually, 
 
 You can work to minimize those kinds of encounters by:
 
-- leaving the code better than you found it AKA `the boy scout rule`
+- leaving the code better than you found it (the boy scout rule)
 - being aware of yaks
 - remembering that there is no good code, only bad and terrible code (deal with that)
 - postponing (it does not have to be shaved right now)
