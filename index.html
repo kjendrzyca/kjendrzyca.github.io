@@ -6,9 +6,6 @@ title: Blog
 {% for post in site.posts %}
     <article>
         <h1><a href="{{ post.url }}" title="{{ post.title }}" class="excerpt-link">{{ post.title }}</a></h1>
-        <div class="meta">
-            Published on <span class="date">{{ post.date | date_to_long_string }}</span>
-        </div>
         <div class="excerpt-content">
             {{ post.excerpt }}
             <a href="{{ post.url }}" class="read-more">Read more...</a>
