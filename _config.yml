@@ -1,8 +1,8 @@
 exclude: [Gemfile, Gemfile.lock]
 permalink: /post/:title/
 url: aimforsimplicity.com
-disqusid: aimforsimplicitycom
-title: aimforsimplicity.com
+# disqusid: aimforsimplicitycom
+# title: aimforsimplicity.com
 description: Strive for simplicity in software development.
 author: Krzysztof Jendrzyca
 twitter_username: kjendrzyca
